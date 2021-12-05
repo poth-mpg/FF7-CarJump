@@ -41,7 +41,8 @@ html {
   inline-size: 100%;
 }
 
-summary {
+details, summary {
     display: list-item;
+  color: orange
 }
 
