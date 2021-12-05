@@ -40,8 +40,18 @@ html {
   inline-size: 100%;
 }
 
-.flex { 
-    display: flex; 
-    justify-content: center; 
-    align-items: center;
+details > summary {
+  background-color: #fdb;
+  cursor: pointer;
+  padding: .5rem 1rem;
+}
+
+details > summary > * {
+  display: inline;
+}
+
+details > div {
+  border: 2px solid #fdb;
+  margin-top: 0;
+  padding: 1rem;
 }
