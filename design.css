@@ -39,3 +39,9 @@ html {
   block-size: 100%;
   inline-size: 100%;
 }
+
+.flex { 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
