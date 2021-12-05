@@ -23,7 +23,7 @@ body {
   display: grid;
   //place-content: center;
   font-family: system-ui;
-  font-size: min(120%, 5vmin);
+  font-size: min(100%, 5vmin);
 }
 
 h1, p, body {
