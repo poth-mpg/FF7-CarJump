@@ -24,6 +24,7 @@ body {
  // place-content: center;
   font-family: system-ui;
   font-size: min(100%, 5vmin);
+  max-width: 60rem;
 }
 
 h1, p, body {
