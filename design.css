@@ -24,7 +24,7 @@ body {
  // place-content: center;
   font-family: system-ui;
   font-size: min(100%, 5vmin);
-  max-width: 60rem;
+
 }
 
 h1, p, body {
@@ -41,18 +41,5 @@ html {
   inline-size: 100%;
 }
 
-details > summary {
-  background-color: #fdb;
-  cursor: pointer;
-  padding: .5rem 1rem;
-}
 
-details > summary > * {
-  display: inline;
-}
 
-details > div {
-  border: 2px solid #fdb;
-  margin-top: 0;
-  padding: 1rem;
-}
