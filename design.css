@@ -23,7 +23,7 @@ body {
   box-sizing: border-box;
   display: grid;
  // place-content: center;
-  font-family: system-ui;
+  font-family: '-apple-system','HelveticaNeue';
   font-size: min(100%, 5vmin);
 
 }
