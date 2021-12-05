@@ -41,5 +41,7 @@ html {
   inline-size: 100%;
 }
 
-
+summary {
+    display: list-item;
+}
 
