@@ -6,7 +6,7 @@ article {
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  text-align: center;
+ // text-align: center;
 }
 
 h1 {
@@ -21,7 +21,7 @@ body {
   min-inline-size: 100%;
   box-sizing: border-box;
   display: grid;
-  place-content: center;
+ // place-content: center;
   font-family: system-ui;
   font-size: min(100%, 5vmin);
 }
