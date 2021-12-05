@@ -32,6 +32,7 @@ h1, p, body {
 
 p {
   font-family: "Dank Mono", ui-monospace, monospace;
+  text-indent: 35px
 }
 
 html {
