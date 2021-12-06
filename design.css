@@ -5,7 +5,7 @@ article {
     hsl(204 100% 59%)
   );
   -webkit-background-clip: text;
-  -webkit-text-fill-color: rgba (0,0,0,0.0001);
+  -webkit-text-fill-color: transparent;
   -webkit-appearance: none;
  // text-align: center;
 }
@@ -21,7 +21,7 @@ body {
   min-block-size: 100%;
   min-inline-size: 100%;
   box-sizing: border-box;
-  display: grid;
+  display: inline;
  // place-content: center;
   font-family: '-apple-system','HelveticaNeue';
   font-size: min(100%, 5vmin);
