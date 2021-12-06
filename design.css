@@ -4,14 +4,10 @@ article {
     hsl(98 100% 62%), 
     hsl(204 100% 59%)
   );
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -webkit-appearance: none;
- // text-align: center;
 }
 
 h1 {
-  font-size: 72px;
+  font-size: 56px;
   background: -webkit-linear-gradient(#eee, #333);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -34,9 +30,12 @@ h1, p, body {
   margin: 0;
 }
 
-p, ul, li {
+p, ul, li,details, summary {
   font-family: "Dank Mono", ui-monospace, monospace;
   text-indent: 35px
+    background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 html {
@@ -44,8 +43,4 @@ html {
   inline-size: 100%;
 }
 
-details, summary {
-    display: list-item;
-  color: orange
-}
 
