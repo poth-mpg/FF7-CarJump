@@ -2,7 +2,7 @@
 
 
 body {
-  background: white;
+  background-color: white;
   padding-left: 10%;
   min-block-size: 100%;
   min-inline-size: 100%;
@@ -19,9 +19,7 @@ h1, p, body {
 }
 
 p, ul, li {
-  font-family: "Dank Mono", ui-monospace, monospace;
   text-indent: 35px
-
 }
 
 html {
