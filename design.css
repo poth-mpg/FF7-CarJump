@@ -7,7 +7,7 @@ body {
   min-block-size: 100%;
   min-inline-size: 100%;
   box-sizing: border-box;
-  display: inline;
+  display: grid;
  // place-content: center;
   font-family: '-apple-system','HelveticaNeue';
   font-size: min(100%, 5vmin);
