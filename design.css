@@ -1,14 +1,8 @@
 
 
-h1 {
-  font-size: 56px;
-  background: -webkit-linear-gradient(#eee, #333);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
 
 body {
-  background: hsl(204 100% 5%);
+  background: white;
   padding-left: 10%;
   min-block-size: 100%;
   min-inline-size: 100%;
