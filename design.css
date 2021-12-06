@@ -1,10 +1,4 @@
-article {
-  background: linear-gradient(
-    to right, 
-    hsl(98 100% 62%), 
-    hsl(204 100% 59%)
-  );
-}
+
 
 h1 {
   font-size: 56px;
@@ -30,12 +24,10 @@ h1, p, body {
   margin: 0;
 }
 
-p, ul, li,details, summary {
+p, ul, li {
   font-family: "Dank Mono", ui-monospace, monospace;
   text-indent: 35px
-    background: -webkit-linear-gradient(#eee, #333);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+
 }
 
 html {
